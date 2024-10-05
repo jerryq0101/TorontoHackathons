@@ -53,6 +53,10 @@ To contribute:
  |---|---|---|---|---|---|
  | [Hack the North](https://hackthenorth.com/)  |  Waterloo | Sept. 13-15  |  Applications Finished |   | :white_check_mark: |
 
+# October
+ | Name  |  Location | Date | Application Period |  Notes | MLH Partnered |
+ |---|---|---|---|---|---|
+ | [New Hacks](https://newhacks.ca/)  |  Toronto | October 26-27, 2024  |  Live - Due Oct 11th | Hosted by UofT | :white_check_mark: |
 
 
 
